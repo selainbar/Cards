@@ -1,0 +1,75 @@
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\server-api.exe
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\server-api.deps.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\server-api.runtimeconfig.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\server-api.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\server-api.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.AssemblyInfo.cs
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.server-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.build.server-api.props
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server-api.props
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server-api.props
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\scopedcss\bundle\server-api.styles.css
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.csproj.CopyComplete
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\refint\server-api.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\server-api.genruntimeconfig.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (3)\server-api\server-api\obj\Debug\net7.0\ref\server-api.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.AssemblyInfo.cs
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\refint\server-api.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.pdb
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Data\Banks.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Data\Cards.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\server-api.exe
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\server-api.deps.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\server-api.runtimeconfig.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\server-api.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\server-api.pdb
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.server-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.build.server-api.props
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server-api.props
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server-api.props
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\scopedcss\bundle\server-api.styles.css
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.genruntimeconfig.cache
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\ref\server-api.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\CardsProject\server-api\server-api\obj\Debug\net7.0\server-api.csproj.CopyComplete
